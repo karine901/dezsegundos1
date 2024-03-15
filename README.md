@@ -1,0 +1,2 @@
+# dezsegundos1
+exercicio
